@@ -97,3 +97,16 @@ Neha Sharma
 ---
 
 Built with Python and Streamlit.
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Practice Interview
+![Practice Interview](screenshots/practice.png)
+
+### Performance Dashboard
+![Performance Dashboard](screenshots/dashboard.png)
+
+### PDF Report
+![PDF Report](screenshots/report.png)
